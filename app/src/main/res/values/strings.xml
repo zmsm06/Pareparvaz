@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PareParvaz</string>
+    <string name="ashura">Ashura</string>
+    <string name="onvan">onvan</string>
+    <string name="زیارتنامه">زیارتنامه ها</string>
+    <string name="ادعیه" />
+    <string name="دعاها">دعاهای منتخب</string>
+    <string name="aleyasin">aleyasin</string>
+    <string name="faraj">faraj</string>
+    <string name="alarm">alarm</string>
+    <string name="test_on">test_on</string>
+    <string name="test">test</string>
+    <string name="todo">todo</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="share">share</string>
+    <string name="google">google</string>
+    <string name="share_text">share_text</string>
+    <string name="mediaplayer">mediaplayer</string>
+    <string name="play">پخش</string>
+    <string name="pause">توقف</string>
+    <string name="stop">stop</string>
+    <string name="login">ورود</string>
+    <string name="register">ثبت نام</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="mobile">mobile</string>
+    <string name="home">خانه</string>
+    <string name="adieh">ادعیه</string>
+    <string name="ziyaratnameh">زیارتنامه</string>
+    <string name="about_me">درباره ما</string>
+    <string name="contact_us">ارتباط با ما</string>
+    <string name="toggleButton">toggleButton</string>
+    <string name="text_contact_me">
+        با احترام\n\n\n        جهت ارتباط با ما می توانید با ایمیل زیر درارتباط باشید\n        zeinabmallaki67@gmail.com \n\n\n        با سپاس و احترام\n        زینب ملاکی</string>
+    <string name="text_about_me">
+        به نام خدا\n\n\n        این برنامه جهت ارتباط شما با خدای مهربان تهیه شده است\n        امیدواریم با ارسال نظرات خود ما را در بهتر شدن آن یاری بفرمایید\n\n\n        با سپاس و احترام\n        زینب ملاکی
+    </string>
+    <string name="logo">logo</string>
+    <string name="pareparvaz">پرپرواز</string>
+    <string name="zeinabmallaki">zeinabmallaki</string>
+    <string name="shoar">
+        اپلیکیشنی برای ارتباط با خدای مهربان</string>
+
+    <string name="large_text">
+        "Material is the metaphor./n/n"
+        "A material /n/n
+    </string>
+
+
+</resources>
